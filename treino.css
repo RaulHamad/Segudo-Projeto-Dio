@@ -1,0 +1,108 @@
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+body{
+    display: flex;
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgb(243, 243, 243);
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+
+.instagram-wrapper{
+       display: flex;
+       justify-content: start;
+    width: 60%;
+    height: 100vh;
+    align-items: center;
+}
+.instagram-phone{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    
+}
+     .instagram-phone img{
+         height: 50rem;
+     }   
+    .instagram-continue{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        width: 50%;
+        min-height: 33rem;
+    }
+    .group{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+        padding: 1.5rem;
+        background-color: white;
+        border: 1px solid lightgray;
+                
+    }
+    .instagram-logo{
+        height: 3rem;
+    }
+    .profile-foto{
+        display: flex;
+        overflow: hidden;
+        border-radius: 50%;
+        height: 6rem;        
+    }
+   .instagram-login{
+       background-color: #0095f6;
+       color: white;
+       padding: 8px;
+       border-radius: 5px;
+       margin: 5%;
+        
+    }
+    .instagram-logout{
+        color: #0095f6;
+        margin-top: 3%;
+    }
+    .not-account{
+        color: darkgray;
+        align-items: center;
+    }
+    .link-blue{
+        color: #0095f6;
+    }
+    .get-the-app{
+        display: flex;
+        padding: 0.7rem;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        width: 100%;
+        
+    }
+    .download{
+        display: flex;
+        width: 10rem;
+        justify-content: space-evenly;
+        align-items: center;
+        align-self: center;
+        padding: 1rem;
+      
+    }
+    .app-download1{
+        width: 130%;
+        margin: 13%;
+        
+    }
+
+    

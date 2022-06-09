@@ -1,5 +1,6 @@
-# Segudo-Projeto-Dio
-entrega do segundo projeto Dio - html/css
-Entrega com duas versoes
-treino.html - versao acompanhando a professora
-index.html - tentativa sem pesquisa
+# Segundo-Projeto-Dio
+### entrega do segundo projeto Dio - html/css
+
+#### Entrega com duas versões
+##### treino.html - versão acompanhando a professora
+##### index.html - tentativa sem pesquisa
